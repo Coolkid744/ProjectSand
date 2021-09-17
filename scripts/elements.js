@@ -117,6 +117,7 @@ const CHARGED_NITRO = __inGameColor(245, 98, 78);
 const ACID = __inGameColor(157, 240, 40);
 const THERMITE = __inGameColor(195, 140, 70);
 const BURNING_THERMITE = __inGameColor(255, 130, 130);
+const Guns= __inGameColor(900, 400, 400);
 
 /*
  * It would be nice to combine the elements and elementActions
